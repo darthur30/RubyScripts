@@ -21,6 +21,7 @@ $counter = 1
 $temp = CoachCompany.new
 
 
+
 ############################################
 ##~ FUNCTIONS TO STORE RECORD INTO ARRAY ~##
 ############################################
