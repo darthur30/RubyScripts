@@ -53,7 +53,6 @@ def check(value)
   
        if value =~ /^\(TEL\)/
           $temp.tel = value.to_s.sub(/^\(TEL\)/, '')
-          
           return 
        end
        if value =~ /^\(FAX\)/
